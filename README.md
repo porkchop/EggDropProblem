@@ -1,4 +1,4 @@
 EggDropProblem
 ==============
 
-Egg drop problem solved in Java
+The classic building and bunch o' eggs dynamic programming problem solved in Java
